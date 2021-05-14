@@ -1,5 +1,4 @@
-# dbupa-sql
-c# database script manager, an alternative to migrations
+# A C# database sql database script manager, an alternative to migrations
 
 The dbup-automation project is an alternative for the use of migrations.
 
