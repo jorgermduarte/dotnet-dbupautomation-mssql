@@ -23,6 +23,4 @@ Console application Options:
 _-e environment
 -a application_
 
-
-![image](https://user-images.githubusercontent.com/45755132/118337327-76f57e80-b50b-11eb-9920-d54a1bc6fa51.png)
-
+![image](https://user-images.githubusercontent.com/45755132/118337349-8379d700-b50b-11eb-99db-847e71c58fd4.png)
