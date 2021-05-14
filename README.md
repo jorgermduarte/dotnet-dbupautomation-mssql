@@ -22,3 +22,6 @@ For the execution of this console application, you can, after building it, in th
 Console application Options:
 _-e environment
 -a application_
+
+
+![image](https://user-images.githubusercontent.com/45755132/118337248-4c0b2a80-b50b-11eb-87ad-795d4e9490ca.png)
